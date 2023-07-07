@@ -1,21 +1,10 @@
 package com.example.vplayer
-
-import android.net.Uri
 import android.net.Uri.parse
-import android.os.Bundle
-import android.widget.MediaController
-import android.widget.VideoView
-import androidx.appcompat.app.AppCompatActivity
-
-package com.example.video_player
-
 import android.net.Uri
-import android.net.Uri.parse
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.MediaController
 import android.widget.VideoView
-import androidx.navigation.ui.AppBarConfiguration
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
